@@ -1,1 +1,6 @@
-test
+**Big Update!**
+*Now We Can Use Launcher!*
+
+Added Scenarios:
+ - Cold War
+ - Modern World
