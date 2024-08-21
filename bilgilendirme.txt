@@ -1,6 +1,31 @@
-**Big Update!**
-*Now We Can Use Launcher!*
+**Hearts of Iron IV: Update 1.0.5**
+***New Features:***
 
-Added Scenarios:
- - Cold War
- - Modern World
+*New Scenarios:*
+ - 1949 Cold War
+ - 2024 Modern World
+
+*New Focus Tree's:*
+-Turkiye,
+ = Netural 
+ = Ottoman Empire
+
+-Germany
+ = Return Trockij+
+
+*RTS*
+
+*New Focus Tree Day Timer*
+
+Visual Upgrades: Improved map visuals and a fresh user interface theme.
+
+
+***Bug Fixes:***
+
+Performance Enhancements: Various fixes to improve overall game performance.
+
+Bug Fixes: Focus Tree Multi Clickable Problem, Mobile %99
+
+***Notes:***
+
+This update brings a smoother gameplay experience and adds depth with new content.
