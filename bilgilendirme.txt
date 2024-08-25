@@ -1,2 +1,6 @@
-test
-ASDJKHGASJKHDASGD
+Big Update!
+
+Features:
+-RTS
+-Party system
+-Launcher
